@@ -1,0 +1,7 @@
+
+--This line, and those below, will be ignored--
+
+M    beaglebone.pro.user
+M    mainwindow.cpp
+M    repeatScan.cpp
+M    scanthread.cpp

@@ -1,0 +1,19 @@
+477 1475
+318 414
+539 664
+722 857
+1 0 0 1.0
+46 102 133 182
+0. 0.
+8.5 17
+.4 .9
+; CAUTION : EDITING THIS FILE IS NOT FOR THE FAINT OF HEART
+; line by line description follows
+; 1 = low cell conc	high cell conc
+; 2 = d1start	d1stop	(dark pixel range)
+; 3 = t1start	p5stop	(range to fit)
+; 4 = no_motors   cal_motor_offset   scan_mirror_offset   scan_mirror_scale
+; 5 = cell positions (ref - high - dark - low)
+; 448 1375	COSPEC cells
+;
+; 
